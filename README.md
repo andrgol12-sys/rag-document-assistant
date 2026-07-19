@@ -54,7 +54,7 @@
 
  
 
-RAGAS
+![RAGAS](assets/ragas.png)
 
 # 🏗 Архитектура проекта
 
