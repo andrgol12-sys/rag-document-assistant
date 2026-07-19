@@ -30,7 +30,7 @@
 
  
 
-Запуск приложения
+![Запуск приложения](assets/startup.png)
 
  
 
@@ -42,7 +42,7 @@
 
  
 
-Поиск
+![Поиск](assets/retrieval.png)
 
  
 
@@ -54,7 +54,7 @@
 
  
 
-![RAGAS](assets/ragas.png)
+RAGAS
 
 # 🏗 Архитектура проекта
 
