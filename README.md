@@ -6,7 +6,12 @@ AI-ассистент для поиска информации во внутре
 
 В проекте реализованы семантический поиск, ChromaDB, OpenAI Embeddings, фильтрация нерелевантного контекста, кэширование и автоматическая оценка качества RAG-системы.
 
+<p align="center">
+  <img src="assets/rag-document-assistant.png" width="950" alt="RAG Document Assistant">
+</p>
+
 ---
+
 
 ## 🎯 Что демонстрирует проект
 
